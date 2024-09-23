@@ -1,35 +1,38 @@
-.header{ 
-    background-color: rgba(180 1 1); 
+.header {
+    background-color: rgba(180 1 1);
     text-align: center;
     font-family: "DM Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-  color: white; 
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
 }
-p{ 
+
+p {
     font-family: "Almarai", sans-serif;
     font-weight: 500;
     font-style: normal;
-    font-size: large; 
+    font-size: large;
 }
-h1 { 
+
+h1 {
     font-family: "Karla", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal; *
+    font-style: normal;
+    *
 }
-button{ 
+
+button {
     font-family: "Karla", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;
-    font-style: normal; 
+    font-style: normal;
 }
 
 /* font-family: "Karla", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
-  font-style: normal; */ 
+  font-style: normal; */
 .container .button {
     background-color: rgba(180 1 1);
     color: white;
@@ -38,31 +41,36 @@ button{
     border: none;
     cursor: pointer;
     border-radius: 5px;
-  }
-.col-8{
-    padding: 15px;
 }
-.col-4{
+
+.col-8 {
     padding: 15px;
 }
 
-.img1{
-    background-image: url(/montclair1.jpg);
+.col-4 {
+    padding: 15px;
+}
+
+.img1 {
+    background-image: url("/montclair1.jpg");
     background-size: cover;
     background-position: center center;
 }
-.img2{
-    background-image: url(/montclair2.jpg);
+
+.img2 {
+    background-image: url("/montclair2.jpg");
     background-size: cover;
     background-position: center center;
 }
-.img3{
-    background-image: url(/montclair3.jpg);
+
+.img3 {
+    background-image: url("/montclair3.jpg");
     background-size: cover;
     background-position: center center;
 }
-.img4{
-    background-image: url(/montclair4.jpg);
+
+.img4 {
+    background-image: url("/montclair4.jpg");
     background-size: cover;
-    background-position: center center;  
+    background-position: center center;
 }
