@@ -1,6 +1,35 @@
 .header{ 
     background-color: rgba(180 1 1); 
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white; 
 }
+p{ 
+    font-family: "Almarai", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: large; 
+}
+h1 { 
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal; *
+}
+button{ 
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal; 
+}
+
+/* font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; */ 
 .container .button {
     background-color: rgba(180 1 1);
     color: white;
