@@ -52,25 +52,25 @@ button {
 }
 
 .img1 {
-    background-image: url("/montclair1.jpg");
+    background-image: url("montclair1.jpg");
     background-size: cover;
     background-position: center center;
 }
 
 .img2 {
-    background-image: url("/montclair2.jpg");
+    background-image: url("montclair2.jpg");
     background-size: cover;
     background-position: center center;
 }
 
 .img3 {
-    background-image: url("/montclair3.jpg");
+    background-image: url("montclair3.jpg");
     background-size: cover;
     background-position: center center;
 }
 
 .img4 {
-    background-image: url("/montclair4.jpg");
+    background-image: url("montclair4.jpg");
     background-size: cover;
     background-position: center center;
 }
