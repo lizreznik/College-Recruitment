@@ -1,6 +1,6 @@
 function studentLife() {
     document.getElementById('response-header').innerText = 'Student Life'
-    document.getElementById('response-text').innerText = '...'
+    document.getElementById('response-text').innerText = 'Montclair State University offers a vibrant student life experience, with a wide range of clubs and activities to get involved in. For example, students can join academic clubs like the Biology Club or the Economics Society, Greek organizations like Alpha Phi Alpha or Delta Sigma Theta, honor societies like Phi Beta Kappa or Phi Kappa Phi, cultural organizations like the Black Student Union or the Asian American Cultural Center, recreational clubs like the Hiking Club or the Ultimate Frisbee Club, service organizations like Habitat for Humanity or the Red Cross Club, and performing arts groups like the choir or the theater company. Additionally, the university offers a variety of intramural sports, such as basketball, soccer, and volleyball, and cultural events, such as concerts, plays, and art exhibitions. With so many options available, students at Montclair State have ample opportunities to find their niche and make the most of their college experience.'
 }
 
 function academicPrograms() {
@@ -10,10 +10,10 @@ function academicPrograms() {
 
 function costFinance() { 
     document.getElementById('response-header').innerText = 'Cost & Financial Aid'
-    document.getElementById('response-text').innerText = '...'
+    document.getElementById('response-text').innerText = 'Montclair State University offers a variety of financial aid options to help students meet the cost of their education, which includes tuition, fees, and housing. For the 2023-2024 academic year, the estimated tuition for in-state students was approximately $12,000 per year, while out-of-state students typically paid around $25,000 per year. On-campus housing costs ranged from approximately $8,000 to $12,000 per year. These are estimates, and actual costs may vary. For the most accurate and up-to-date information, you should refer to the Montclair State University website or contact the Office of Student Financial Services.'
 }
 
 function alumniSuccess() { 
     document.getElementById('response-header').innerText = 'Alumni Success'
-    document.getElementById('response-text').innerText = '...'
+    document.getElementById('response-text').innerText = 'Montclair State University has a strong track record of producing successful alumni who have made significant contributions in various fields. The university graduates have gone on to hold leadership positions in business, government, education, healthcare, and the arts. For example, Montclair State alumni have served as CEOs of Fortune 500 companies, governors of states, and award-winning artists. The university alumni network provides valuable support and opportunities for students and graduates, helping them achieve their career goals.'
 }
